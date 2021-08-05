@@ -1,0 +1,6 @@
+set_name	filter_in	filter_out	donor_mut_type	donor_seq_offsets
+ergosterol	VAR:ERG;EGE;EGD;EGC;EGB;EGA;EG9;EG8	None	REF2ALT	[14]
+gxg	VAR:GXG	None	REF2ALT	[14]
+epival	VAR:TDH;VAL	None	REF2ALT	[14]
+gxe	VAR:GXE	None	REF2ALT	[14]
+hsp90	VAR:HSP;HSX	None	REF2ALT	[14]

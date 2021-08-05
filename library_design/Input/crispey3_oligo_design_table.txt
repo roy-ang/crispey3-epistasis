@@ -1,0 +1,8 @@
+Name	pos_start	pos_end	DNA_seq	Descripton
+cloning5	0	24	GTTGCAGTTAGCTAACAGGCCATGC	5' cloning homology
+barcode	25	36	None	barcode
+assembly	37	60	GCATGCAGCGGCCGCAGGCGCGCC	restriction sites for assembly
+donor	61	168	None	donor repair template
+retron	169	202	AGGAAACCCGTTTCTTCTGACGTAAGGGTGCGCA	retron sequence
+guide	203	222	None	guide RNA
+cloning3	223	249	GTTTCAGAGCTATGCTGGAAACAGCAT	3' cloning homology
