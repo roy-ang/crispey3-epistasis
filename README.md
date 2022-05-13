@@ -1,2 +1,2 @@
 # crispey3-epistasis
-Code for designing CRISPEY3 library and data processing of sequencing reads
+Code for designing CRISPEY-BAR library and data processing of sequencing reads for yeast epistasis project
